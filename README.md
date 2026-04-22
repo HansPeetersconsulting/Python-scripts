@@ -2,6 +2,7 @@
 5. Voorbeelden
 5.1 Alle tabellen tonen (platte lijst)
 .\Scan_PBIB.ps1 -DefinitionPath "...\definition" -ShowTables
+.\Scan_PBIB.ps1 -DefinitionPath "C:\Users\Peetha\Downloads\QT-CTS\Error-report-Rainbow\Error-report-Rainbow.Report\definition" -ShowTables
 
 Output:
 Table: Configuration
@@ -31,6 +32,7 @@ Zonder FilterPrefix: geen pages/visuals tonen → enkel platte lijst
 Met FilterPrefix: wel pages + visuals + matching results tonen
 ShowTables alleen → toont alleen tabellen
 
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
 **How to execute Unused_columns_or_tables_measures.py:**
 
